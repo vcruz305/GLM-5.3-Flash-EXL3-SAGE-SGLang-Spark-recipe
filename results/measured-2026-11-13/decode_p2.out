@@ -1,0 +1,5 @@
+prose n_out 256 decode_tps 20.89 ttft_s 0.23 {'spec_accept_rate': 0.25925925925925924, 'spec_accept_length': 1.7777777777777777, 'spec_num_correct_drafts': 112, 'spec_num_proposed_drafts': 432, 'spec_verify_ct': 144, 'spec_correct_drafts_histogram': [72, 41, 22, 9]}
+code n_out 256 decode_tps 29.12 ttft_s 0.284 {'spec_accept_rate': 0.52, 'spec_accept_length': 2.56, 'spec_num_correct_drafts': 156, 'spec_num_proposed_drafts': 300, 'spec_verify_ct': 100, 'spec_correct_drafts_histogram': [26, 23, 20, 31]}
+json n_out 256 decode_tps 25.74 ttft_s 0.36 {'spec_accept_rate': 0.4247787610619469, 'spec_accept_length': 2.265486725663717, 'spec_num_correct_drafts': 144, 'spec_num_proposed_drafts': 339, 'spec_verify_ct': 113, 'spec_correct_drafts_histogram': [31, 39, 24, 19]}
+math n_out 256 decode_tps 33.5 ttft_s 0.411 {'spec_accept_rate': 0.6551724137931034, 'spec_accept_length': 2.942528735632184, 'spec_num_correct_drafts': 171, 'spec_num_proposed_drafts': 261, 'spec_verify_ct': 87, 'spec_correct_drafts_histogram': [10, 22, 16, 39]}
+DONE dec_p2

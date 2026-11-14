@@ -1,0 +1,11 @@
+len~512 v1 prompt_tokens=528 ttft=97.27s prefill_tps=5.4 decode_tps=25.61 ctoks=16
+len~512 v2 prompt_tokens=536 ttft=1.90s prefill_tps=281.7 decode_tps=29.37 ctoks=16
+len~1024 v1 prompt_tokens=1117 ttft=10.32s prefill_tps=108.2 decode_tps=25.46 ctoks=16
+len~1024 v2 prompt_tokens=1138 ttft=2.82s prefill_tps=403.6 decode_tps=22.13 ctoks=16
+len~2048 v1 prompt_tokens=2141 ttft=14.05s prefill_tps=152.4 decode_tps=15.7 ctoks=16
+len~2048 v2 prompt_tokens=2053 ttft=4.03s prefill_tps=509.6 decode_tps=24.78 ctoks=16
+len~4096 v1 prompt_tokens=4018 ttft=7.29s prefill_tps=551.1 decode_tps=17.19 ctoks=16
+len~4096 v2 prompt_tokens=4027 ttft=7.19s prefill_tps=560.4 decode_tps=15.54 ctoks=16
+len~7500 v1 prompt_tokens=7192 ttft=13.44s prefill_tps=535.0 decode_tps=21.69 ctoks=16
+len~7500 v2 prompt_tokens=7131 ttft=12.59s prefill_tps=566.5 decode_tps=24.48 ctoks=16
+SUMMARY-DONE 10

@@ -1,0 +1,6 @@
+SUMMARY {"label": "K2_graph_conc_p2_n1", "N": 1, "rounds": 4, "requests": 4, "total_tokens": 1024, "wall_s": 41.552, "round_walls_s": [12.364, 9.913, 11.286, 7.99], "aggregate_tps": 24.644, "per_request_tps_mean": 25.315, "per_request_tps_min": 20.706, "per_request_tps_max": 32.042}
+REQ code n_out=256 per_req_tps=25.83 text_head='```python\ndef fib(n):\n    """Return the nth Fibonacci number (iteratively)."""\n    a, b = 0, 1\n    f'
+REQ json n_out=256 per_req_tps=22.68 text_head='```json\n{\n  "title": "The Great Gatsby",\n  "author": "F. Scott Fitzgerald",\n  "year": 1925,\n  "genre'
+REQ math n_out=256 per_req_tps=32.04 text_head='**Step-by-step:**\n\n1. **Multiples of 3** from 1 to 100: 3, 6, ..., 99. There are 33 terms. Sum = 33 '
+REQ prose n_out=256 per_req_tps=20.71 text_head='The lighthouse stands alone on the black basalt cliff, its white tower streaked with salt and rust, '
+DONE K2_graph_conc_p2_n1

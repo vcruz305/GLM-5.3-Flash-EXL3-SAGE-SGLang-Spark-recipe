@@ -1,0 +1,6 @@
+SUMMARY {"label": "K2_graph_conc_p2_n4", "N": 4, "rounds": 1, "requests": 4, "total_tokens": 1024, "wall_s": 26.236, "round_walls_s": [26.236], "aggregate_tps": 39.03, "per_request_tps_mean": 11.947, "per_request_tps_min": 9.758, "per_request_tps_max": 13.942}
+REQ code n_out=256 per_req_tps=13.94 text_head='```python\ndef fib(n):\n    """Return the nth Fibonacci number (0-indexed: fib(0)=0, fib(1)=1)."""\n   '
+REQ json n_out=256 per_req_tps=10.73 text_head='```json\n{\n  "title": "To Kill a Mockingbird",\n  "author": "Harper Lee",\n  "year": 1960,\n  "genres": '
+REQ math n_out=256 per_req_tps=13.36 text_head='**Step-by-step:**\n\n1. **Multiples of 3** from 1 to 100: 3, 6, ..., 99. There are 33 terms, so their '
+REQ prose n_out=256 per_req_tps=9.76 text_head='The lighthouse stands alone on the black basalt cliff, a white tower rising from the churning dark l'
+DONE K2_graph_conc_p2_n4
